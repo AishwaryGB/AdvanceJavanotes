@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+   header{
+      background-color:blue;
+      color:white;
+      border:2px solid red;
+      border-radius:20px
+   }
+</style>
+</head>
+<body>
+   <header><h1>Product Management System</h1></header>
+</body>
+</html>
