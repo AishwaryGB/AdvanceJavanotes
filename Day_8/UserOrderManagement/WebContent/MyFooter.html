@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+   footer{
+      border:2px solid red;
+      border-radius:20px;
+      position:fixed;
+      bottom:0;
+      left:200px;
+   }
+</style>
+</head>
+<body>
+    <footer><h3>&copy; copyrights Reserved</h3></footer>
+</body>
+</html>
